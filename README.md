@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Detection Using Multimodal AI
+# ❤️ Heart Disease Prediction Using Multimodal 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-Heart Disease Detection Using Multimodal AI is a machine learning-based final year project that predicts heart disease by combining **ECG image analysis** and **clinical patient data**.
+Heart Disease Prediction Using Multimodal AI is a machine learning-based final year project that predicts heart disease by combining **ECG image analysis** and **clinical patient data**.
 
 The system uses:
 - 🫀 CNN for ECG image classification  
@@ -131,5 +131,5 @@ This project is developed for academic purposes as a Final Year Project.
 ```
 Datasets link
 ECG: https://data.mendeley.com/datasets/gwbz3fsgp8/2
-Clinical: https://archive.ics.uci.edu/dataset/45/heart+disease or
+Clinical: https://archive.ics.uci.edu/dataset/45/heart+disease or https://github.com/AbdullahZahid1/Heart-Disease-Detection-using-Multimodal/blob/main/Datasets%20sample/heart.csv (preprocessed)
 
